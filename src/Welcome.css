@@ -1,0 +1,12 @@
+.content {
+	margin: 0 auto;
+	margin-top: 38px;
+	width: 425px;
+}
+.form {
+	border: 2px solid #23b39e;
+	border-radius: 5px;
+}
+img {
+	height: 30px;
+}

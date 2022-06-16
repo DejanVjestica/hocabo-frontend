@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	height: auto;
+	padding: 10px 0;
+	background-color: #23b39e;
+}
+a {
+	text-decoration: none;
+}
